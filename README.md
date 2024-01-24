@@ -35,4 +35,24 @@ My top picks for the best books are shown in the table below. Also includes **Na
 
 Author Name : *Nelson Mandela*
 
+---
+
+## Code Fencing
+
+'dart:convert' is imported; 
+Brings in the dart:convert library, which offers JSON encoding and decoding utilities among other tools for data formats.
+JsonEncoder ().convert(yourObject):
+To convert Dart objects into JSON strings, create a JsonEncoder object.
+calls the encoder's convert() function and passes in yourObject, which you wish to serialise as JSON.
+
+```
+import 'dart:convert';
+
+JsonEncoder().convert(yourObject)
+
+```
+
+[Quick link of snippet source](https://code.pieces.app/collections/dart)
+
+
 
