@@ -26,4 +26,13 @@ My top picks for the best books are shown in the table below. Also includes **Na
 |Cross Your Heart, Take My Name|A gripping thriller that weaves a web of secrets, trust, and betrayal, keeping readers on the edge of their seats.|Novoneel Chakraborty|
 |Can Love Happen Twice|A heartwarming tale exploring the complexities of love, relationships, and the possibility of second chances.|Ravinder Singh|
 
+---
+## Favourite Quotes
+
+> The greatest glory in living lies not in never falling, but in rising every time we fall.
+
+> Education is the most powerful weapon which you can use to change the world.
+
+Author Name : *Nelson Mandela*
+
 
